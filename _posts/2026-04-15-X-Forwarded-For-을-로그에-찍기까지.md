@@ -2,7 +2,8 @@
 title: X-Forwarded-For을 로그에 찍기까지
 description: 클라이언트 IP가 확인되지 않는 상황에서 나의 생각과 해결까지
 date: 2026-04-15 20:00:00 +0900
-categories: [일상]
+categories: [cs]
+tags: [network, apache]
 render_with_liquid: false
 ---
 
